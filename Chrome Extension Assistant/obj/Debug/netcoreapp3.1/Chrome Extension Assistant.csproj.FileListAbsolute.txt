@@ -1,0 +1,21 @@
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\Chrome Extension Assistant.exe
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\Chrome Extension Assistant.deps.json
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\Chrome Extension Assistant.runtimeconfig.json
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\Chrome Extension Assistant.runtimeconfig.dev.json
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\Chrome Extension Assistant.dll
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\Chrome Extension Assistant.pdb
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.csprojAssemblyReference.cache
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant_MarkupCompile.cache
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant_MarkupCompile.lref
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.g.resources
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.AssemblyInfoInputs.cache
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.AssemblyInfo.cs
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.dll
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.pdb
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Sakkyoi\Documents\My Project\Chrome-Extension-Assistant\Chrome Extension Assistant\Chrome Extension Assistant\obj\Debug\netcoreapp3.1\Chrome Extension Assistant.csproj.CopyComplete
