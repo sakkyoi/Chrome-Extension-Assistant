@@ -1,5 +1,5 @@
 ![Logo](https://github.com/sakkyoi/Chrome-Extension-Assistant/raw/master/icon_black.png)
-![English](#Chrome Extension Assistant) | ![正體中文（台灣）](#Chrome 擴充功能助手)
+[English](https://github.com/sakkyoi/Chrome-Extension-Assistant#chrome-extension-assistant) | [正體中文（台灣）](https://github.com/sakkyoi/Chrome-Extension-Assistant#chrome-擴充功能助手)
 # Chrome Extension Assistant
 
 Let third party Chrome extension which not install from Chrome Web Store installable.
